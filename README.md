@@ -1,6 +1,6 @@
 # Newsletter
 
-Content and structure of our monthly newsletter can be found here!
+Content and structure of our monthly newsletter can be found here! It will be going out to 1500+ people and is a big part of our interaction with the outside world. Contributions **very welcome**.
 
 Our gitter channel is below:
 

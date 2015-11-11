@@ -32,7 +32,7 @@ FAC6 is now in week 10, and so FAC7 is already on the horizon. We will be welcom
 
 #### FAC Goodbyes
 
-We were very sad to lose Benjamin Lees in late October. He has started work at Arcadia Group and we wish him all the best in his role and hope to see him very soon. --Benji's bit--
+We were very sad to lose Benjamin Lees to Arcadia group in late October. We wish him all the best in his role and hope to see him very soon. --Benji's bit--. 
 
 Thank you for reading! We shall see you in the next edition (and hopefully at the Christmas party).
 

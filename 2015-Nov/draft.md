@@ -16,7 +16,7 @@ FAC is holding its Christmas party on the 17th December, we hope you can join us
 
 --Makers Academy hackathon in Jan--
 
-FAC6 is now in week 10, and so FAC7 is already on the horizon. We will be welcoming our next cohort on January 11th, so if you yourself are considering applying or know anyone who would be keen, our final deadline is on the 7th December. Do get in touch with us for more information.
+FAC6 is now in week 10, and so FAC7 is already on the horizon. We will be welcoming our next cohort on January 18th, so if you yourself are considering applying or know anyone who would be keen, our final deadline is on the 7th December. Do get in touch with us for more information.
 
 #### FAC in the news
 

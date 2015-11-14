@@ -20,6 +20,12 @@ FAC6 is now in week 10, and so FAC7 is already on the horizon. We will be welcom
 
 #### FAC in the news
 
+During the summer we were featured in the Observer!
+
+http://www.theguardian.com/technology/2015/jul/26/founders-coders-coding-free-training-london
+
+--add other features here--
+
 #### Cohort Project of the month
 
 #### Alumni project highlights

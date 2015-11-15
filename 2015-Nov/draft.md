@@ -6,7 +6,8 @@ We recently decided to start publishing a monthly newsletter to keep the communi
 
 #### FAC Developments
 
-
+We are currently located in Bethnal Green, at 14 Palmers Road, in a hub which is very dear to us. However, we are currently looking for another space as we are growing very fast with the current cohort soon ending! If you are contact with anyone who could provide a space for running free education we would be hugely indebted to you.
+ 
 --dwyl announcements-- from Ines  
 --projects with schools/young people--
 
@@ -22,11 +23,17 @@ FAC6 is now in week 10, and so FAC7 is already on the horizon. We will be welcom
 
 During the summer we were featured in the Observer!
 
-http://www.theguardian.com/technology/2015/jul/26/founders-coders-coding-free-training-london
+http://goo.gl/mCu2Wo
 
---add other features here--
+We have also had articles on Forbes, ComputerWeekly and Farnell among others:
+
+http://goo.gl/wlBQAB  
+http://goo.gl/kSu9vQ  
+http://goo.gl/URKkD2  
 
 #### Cohort Project of the month
+
+--possible addition here--
 
 #### Alumni project highlights
 
@@ -36,12 +43,9 @@ Two recent FAC graduates from the summer, Claire Mitchell and Michelle Garrett h
 
 Well done Claire and Michelle! Michelle is now working with WonderLuk and Claire is at 27partners. The instagram, twitter and site URL is below:
 
-
-
-
-#### Alumni corner
-
-#### Requests for help
+https://www.instagram.com/modeforme/  
+https://twitter.com/modeforme  
+http://www.modeforme.com/
 
 #### FAC Goodbyes
 

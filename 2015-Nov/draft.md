@@ -6,7 +6,7 @@ We recently decided to start publishing a monthly newsletter to keep the communi
 
 #### FAC Developments
 
---Premises update--  
+
 --dwyl announcements-- from Ines  
 --projects with schools/young people--
 
@@ -30,7 +30,14 @@ http://www.theguardian.com/technology/2015/jul/26/founders-coders-coding-free-tr
 
 #### Alumni project highlights
 
---Mode For Me-- from Claire and Michelle
+Two recent FAC graduates from the summer, Claire Mitchell and Michelle Garrett have run into some very quick success! Here's what Claire had to say:  
+
+"Two months ago, we went along to our very first hackathon! It was Startup Weekend - for Fashion & Tech. After three hours sleep curled up in booths at the venue and our first time making 100 git commits in a day... we won!! The startup was Mode For Me: a kickstarter for emerging designers. Our team of six designed and developed an MVP in one weekend, and onboarded 30 designers. 1st prize was a trip to Poland to compete at the Global Fashion Battle (where we kept up the winning streak). Keep an eye out for updates and our imminent (!!) launch in the new year. In the meantime, please do follow us on Twitter and Instagram, and let us know what you think of the site."
+
+Well done Claire and Michelle! Michelle is now working with WonderLuk and Claire is at 27partners. The instagram, twitter and site URL is below:
+
+
+
 
 #### Alumni corner
 
@@ -38,7 +45,7 @@ http://www.theguardian.com/technology/2015/jul/26/founders-coders-coding-free-tr
 
 #### FAC Goodbyes
 
-We were very sad to lose Benjamin Lees to Arcadia group in late October. We wish him all the best in his role and hope to see him very soon. --Benji's bit--. 
+We were very sad to lose Benjamin Lees to Arcadia group in late October. We wish him all the best in his role and hope to see him very soon. --Benji's bit--.
 
 Thank you for reading! We shall see you in the next edition (and hopefully at the Christmas party).
 

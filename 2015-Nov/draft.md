@@ -6,8 +6,8 @@ We recently decided to start publishing a monthly newsletter to keep the communi
 
 #### FAC Developments
 
-We are currently located in Bethnal Green, at 14 Palmers Road, in a hub which is very dear to us. However, we are currently looking for another space as we are growing very fast with the current cohort soon ending! If you are contact with anyone who could provide a space for running free education we would be hugely indebted to you.
- 
+We are currently located in Bethnal Green, at 14 Palmers Road, in a space which is very dear to us. However, we are currently looking for another nest as we are growing very fast with the current cohort soon ending! If you are contact with anyone who could provide a place for running free education we would be hugely indebted to you.
+
 --dwyl announcements-- from Ines  
 --projects with schools/young people--
 

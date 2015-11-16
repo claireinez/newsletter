@@ -31,6 +31,10 @@ http://goo.gl/wlBQAB
 http://goo.gl/kSu9vQ  
 http://goo.gl/URKkD2  
 
+#### Node girls
+
+FAC5 graduates, Anita, Anni, Claire, Michelle, Mina, and Nikhila, founded [Node Girls](https://twitter.com/nodegirls_ldn) and, together with Ines, Natalia (FAC3) and others, organised the inaugural one-day bootcamp in Node.js for women at Stack Exchange in London on Saturday 7th November. The event was a great success and we are expecting more great Node Girls events in the New Year. 
+
 #### Cohort Project of the month
 
 --possible addition here--

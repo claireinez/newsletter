@@ -37,11 +37,11 @@ http://goo.gl/URKkD2
 
 #### Alumni project highlights
 
-Two recent FAC graduates from the summer, Claire Mitchell and Michelle Garrett have run into some very quick success! Here's what Claire had to say:  
+Two recent FAC graduates from the summer, Claire Mitchell and Michelle Garrett have run into some very quick success! Here's what Claire and Michelle had to say:  
 
 "Two months ago, we went along to our very first hackathon! It was Startup Weekend - for Fashion & Tech. After three hours sleep curled up in booths at the venue and our first time making 100 git commits in a day... we won!! The startup was Mode For Me: a kickstarter for emerging designers. Our team of six designed and developed an MVP in one weekend, and onboarded 30 designers. 1st prize was a trip to Poland to compete at the Global Fashion Battle (where we kept up the winning streak). Keep an eye out for updates and our imminent (!!) launch in the new year. In the meantime, please do follow us on Twitter and Instagram, and let us know what you think of the site."
 
-Well done Claire and Michelle! Michelle is now working with WonderLuk and Claire is at 27partners. The instagram, twitter and site URL is below:
+Well done Claire and Michelle! Michelle is now working with WonderLuk and Claire is at 27partners. The Instagram, Twitter and site URL are below:
 
 https://www.instagram.com/modeforme/  
 https://twitter.com/modeforme  
